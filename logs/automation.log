@@ -1,0 +1,108 @@
+08:29:05.103 [main] INFO  testCase.TC_001_AccountRegistrationForm - clicking on continue button
+08:29:07.680 [main] INFO  testCase.TC_001_AccountRegistrationForm - verifying customer registration
+08:29:07.680 [main] INFO  testCase.TC_001_AccountRegistrationForm - test passed..........
+08:29:07.682 [main] INFO  testCase.TC_001_AccountRegistrationForm - ***************Finished TC_001_AccountRegistrationTest*************
+08:29:09.960 [main] INFO  testCase.TC_002_LoginTest - ************starting TC_002_login_test*****************
+08:29:09.960 [main] INFO  testCase.TC_002_LoginTest - clicking on my account
+08:29:10.019 [main] INFO  testCase.TC_002_LoginTest - clicking on login
+08:29:10.326 [main] INFO  testCase.TC_002_LoginTest - enetring email id
+08:29:10.450 [main] INFO  testCase.TC_002_LoginTest - enetring password
+08:29:10.530 [main] INFO  testCase.TC_002_LoginTest - clicking on login button
+08:29:10.887 [main] INFO  testCase.TC_002_LoginTest - verifying MyAccount label on my account page
+08:29:10.936 [main] INFO  testCase.TC_002_LoginTest - ************finished TC_002_login_test*****************
+09:27:50.588 [main] INFO  testCase.TC_001_AccountRegistrationForm - ***************starting TC_001_AccountRegistrationTest*************
+09:27:50.603 [main] INFO  testCase.TC_001_AccountRegistrationForm - clicking on My Account link
+09:27:50.661 [main] INFO  testCase.TC_001_AccountRegistrationForm - clicking on register link
+09:27:50.908 [main] INFO  testCase.TC_001_AccountRegistrationForm - providing customer details
+09:27:51.325 [main] INFO  testCase.TC_001_AccountRegistrationForm - clicking on continue button
+09:27:53.739 [main] INFO  testCase.TC_001_AccountRegistrationForm - verifying customer registration
+09:27:53.739 [main] INFO  testCase.TC_001_AccountRegistrationForm - test passed..........
+09:27:53.741 [main] INFO  testCase.TC_001_AccountRegistrationForm - ***************Finished TC_001_AccountRegistrationTest*************
+09:27:55.210 [main] INFO  testCase.TC_002_LoginTest - ************starting TC_002_login_test*****************
+09:27:55.211 [main] INFO  testCase.TC_002_LoginTest - clicking on my account
+09:27:55.257 [main] INFO  testCase.TC_002_LoginTest - clicking on login
+09:27:55.473 [main] INFO  testCase.TC_002_LoginTest - enetring email id
+09:27:55.566 [main] INFO  testCase.TC_002_LoginTest - enetring password
+09:27:55.621 [main] INFO  testCase.TC_002_LoginTest - clicking on login button
+09:27:55.858 [main] INFO  testCase.TC_002_LoginTest - verifying MyAccount label on my account page
+09:27:55.895 [main] INFO  testCase.TC_002_LoginTest - ************finished TC_002_login_test*****************
+09:48:11.858 [main] INFO  testCase.TC_001_AccountRegistrationForm - ***************starting TC_001_AccountRegistrationTest*************
+09:48:11.870 [main] INFO  testCase.TC_001_AccountRegistrationForm - clicking on My Account link
+09:48:11.937 [main] INFO  testCase.TC_001_AccountRegistrationForm - clicking on register link
+09:48:12.222 [main] INFO  testCase.TC_001_AccountRegistrationForm - providing customer details
+09:48:12.664 [main] INFO  testCase.TC_001_AccountRegistrationForm - clicking on continue button
+09:48:15.043 [main] INFO  testCase.TC_001_AccountRegistrationForm - verifying customer registration
+09:48:15.043 [main] INFO  testCase.TC_001_AccountRegistrationForm - test passed..........
+09:48:15.045 [main] INFO  testCase.TC_001_AccountRegistrationForm - ***************Finished TC_001_AccountRegistrationTest*************
+09:48:16.971 [main] INFO  testCase.TC_002_LoginTest - ************starting TC_002_login_test*****************
+09:48:16.972 [main] INFO  testCase.TC_002_LoginTest - clicking on my account
+09:48:17.028 [main] INFO  testCase.TC_002_LoginTest - clicking on login
+09:48:17.280 [main] INFO  testCase.TC_002_LoginTest - enetring email id
+09:48:17.376 [main] INFO  testCase.TC_002_LoginTest - enetring password
+09:48:17.430 [main] INFO  testCase.TC_002_LoginTest - clicking on login button
+09:48:17.691 [main] INFO  testCase.TC_002_LoginTest - verifying MyAccount label on my account page
+09:48:17.727 [main] INFO  testCase.TC_002_LoginTest - ************finished TC_002_login_test*****************
+09:48:45.612 [main] INFO  testCase.TC_001_AccountRegistrationForm - ***************starting TC_001_AccountRegistrationTest*************
+09:48:45.665 [main] INFO  testCase.TC_001_AccountRegistrationForm - clicking on My Account link
+09:48:45.731 [main] INFO  testCase.TC_001_AccountRegistrationForm - clicking on register link
+09:48:46.146 [main] INFO  testCase.TC_001_AccountRegistrationForm - providing customer details
+09:48:46.789 [main] INFO  testCase.TC_001_AccountRegistrationForm - clicking on continue button
+09:48:49.209 [main] INFO  testCase.TC_001_AccountRegistrationForm - verifying customer registration
+09:48:49.210 [main] INFO  testCase.TC_001_AccountRegistrationForm - test passed..........
+09:48:49.211 [main] INFO  testCase.TC_001_AccountRegistrationForm - ***************Finished TC_001_AccountRegistrationTest*************
+09:48:51.120 [main] INFO  testCase.TC_002_LoginTest - ************starting TC_002_login_test*****************
+09:48:51.121 [main] INFO  testCase.TC_002_LoginTest - clicking on my account
+09:48:51.170 [main] INFO  testCase.TC_002_LoginTest - clicking on login
+09:48:51.387 [main] INFO  testCase.TC_002_LoginTest - enetring email id
+09:48:51.470 [main] INFO  testCase.TC_002_LoginTest - enetring password
+09:48:51.526 [main] INFO  testCase.TC_002_LoginTest - clicking on login button
+09:48:51.758 [main] INFO  testCase.TC_002_LoginTest - verifying MyAccount label on my account page
+09:48:51.802 [main] INFO  testCase.TC_002_LoginTest - ************finished TC_002_login_test*****************
+09:49:24.177 [main] INFO  testCase.TC_001_AccountRegistrationForm - ***************starting TC_001_AccountRegistrationTest*************
+09:49:24.201 [main] INFO  testCase.TC_001_AccountRegistrationForm - clicking on My Account link
+09:49:24.256 [main] INFO  testCase.TC_001_AccountRegistrationForm - clicking on register link
+09:49:24.549 [main] INFO  testCase.TC_001_AccountRegistrationForm - providing customer details
+09:49:24.962 [main] INFO  testCase.TC_001_AccountRegistrationForm - clicking on continue button
+09:49:27.277 [main] INFO  testCase.TC_001_AccountRegistrationForm - verifying customer registration
+09:49:27.277 [main] INFO  testCase.TC_001_AccountRegistrationForm - test passed..........
+09:49:27.279 [main] INFO  testCase.TC_001_AccountRegistrationForm - ***************Finished TC_001_AccountRegistrationTest*************
+09:49:29.031 [main] INFO  testCase.TC_002_LoginTest - ************starting TC_002_login_test*****************
+09:49:29.031 [main] INFO  testCase.TC_002_LoginTest - clicking on my account
+09:49:29.086 [main] INFO  testCase.TC_002_LoginTest - clicking on login
+09:49:29.319 [main] INFO  testCase.TC_002_LoginTest - enetring email id
+09:49:29.390 [main] INFO  testCase.TC_002_LoginTest - enetring password
+09:49:29.447 [main] INFO  testCase.TC_002_LoginTest - clicking on login button
+09:49:29.666 [main] INFO  testCase.TC_002_LoginTest - verifying MyAccount label on my account page
+09:49:29.704 [main] INFO  testCase.TC_002_LoginTest - ************finished TC_002_login_test*****************
+09:50:31.005 [main] INFO  testCase.TC_001_AccountRegistrationForm - ***************starting TC_001_AccountRegistrationTest*************
+09:50:31.018 [main] INFO  testCase.TC_001_AccountRegistrationForm - clicking on My Account link
+09:50:31.078 [main] INFO  testCase.TC_001_AccountRegistrationForm - clicking on register link
+09:50:31.330 [main] INFO  testCase.TC_001_AccountRegistrationForm - providing customer details
+09:50:31.734 [main] INFO  testCase.TC_001_AccountRegistrationForm - clicking on continue button
+09:50:34.094 [main] INFO  testCase.TC_001_AccountRegistrationForm - verifying customer registration
+09:50:34.094 [main] INFO  testCase.TC_001_AccountRegistrationForm - test passed..........
+09:50:34.095 [main] INFO  testCase.TC_001_AccountRegistrationForm - ***************Finished TC_001_AccountRegistrationTest*************
+09:50:35.460 [main] INFO  testCase.TC_002_LoginTest - ************starting TC_002_login_test*****************
+09:50:35.461 [main] INFO  testCase.TC_002_LoginTest - clicking on my account
+09:50:35.514 [main] INFO  testCase.TC_002_LoginTest - clicking on login
+09:50:35.757 [main] INFO  testCase.TC_002_LoginTest - enetring email id
+09:50:35.852 [main] INFO  testCase.TC_002_LoginTest - enetring password
+09:50:35.900 [main] INFO  testCase.TC_002_LoginTest - clicking on login button
+09:50:36.118 [main] INFO  testCase.TC_002_LoginTest - verifying MyAccount label on my account page
+09:50:36.154 [main] INFO  testCase.TC_002_LoginTest - ************finished TC_002_login_test*****************
+10:00:31.155 [main] INFO  testCase.TC_001_AccountRegistrationForm - ***************starting TC_001_AccountRegistrationTest*************
+10:00:31.171 [main] INFO  testCase.TC_001_AccountRegistrationForm - clicking on My Account link
+10:00:31.239 [main] INFO  testCase.TC_001_AccountRegistrationForm - clicking on register link
+10:00:31.521 [main] INFO  testCase.TC_001_AccountRegistrationForm - providing customer details
+10:00:31.937 [main] INFO  testCase.TC_001_AccountRegistrationForm - clicking on continue button
+10:00:34.280 [main] INFO  testCase.TC_001_AccountRegistrationForm - verifying customer registration
+10:00:34.280 [main] INFO  testCase.TC_001_AccountRegistrationForm - test passed..........
+10:00:34.282 [main] INFO  testCase.TC_001_AccountRegistrationForm - ***************Finished TC_001_AccountRegistrationTest*************
+10:00:35.660 [main] INFO  testCase.TC_002_LoginTest - ************starting TC_002_login_test*****************
+10:00:35.660 [main] INFO  testCase.TC_002_LoginTest - clicking on my account
+10:00:35.719 [main] INFO  testCase.TC_002_LoginTest - clicking on login
+10:00:35.936 [main] INFO  testCase.TC_002_LoginTest - enetring email id
+10:00:36.014 [main] INFO  testCase.TC_002_LoginTest - enetring password
+10:00:36.065 [main] INFO  testCase.TC_002_LoginTest - clicking on login button
+10:00:36.293 [main] INFO  testCase.TC_002_LoginTest - verifying MyAccount label on my account page
+10:00:36.332 [main] INFO  testCase.TC_002_LoginTest - ************finished TC_002_login_test*****************
