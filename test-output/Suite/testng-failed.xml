@@ -7,20 +7,13 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCase.TC_001_AccountRegistrationForm">
+      <class name="testCase.TC_005_AddToCartTest">
         <methods>
           <include name="tearDown"/>
-          <include name="Test_AccountRegistration"/>
           <include name="setup"/>
+          <include name="test_addToCart"/>
         </methods>
-      </class> <!-- testCase.TC_001_AccountRegistrationForm -->
-      <class name="testCase.TC_002_LoginTest">
-        <methods>
-          <include name="test_Login"/>
-          <include name="tearDown"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testCase.TC_002_LoginTest -->
+      </class> <!-- testCase.TC_005_AddToCartTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

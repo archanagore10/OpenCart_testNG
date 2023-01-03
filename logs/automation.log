@@ -106,3 +106,114 @@
 10:00:36.065 [main] INFO  testCase.TC_002_LoginTest - clicking on login button
 10:00:36.293 [main] INFO  testCase.TC_002_LoginTest - verifying MyAccount label on my account page
 10:00:36.332 [main] INFO  testCase.TC_002_LoginTest - ************finished TC_002_login_test*****************
+17:57:23.548 [main] INFO  testCase.TC_004_SearchProduct - *********starting TC_004_Search****************
+17:57:23.571 [main] INFO  testCase.TC_004_SearchProduct - entering product name to search
+17:57:23.640 [main] INFO  testCase.TC_004_SearchProduct - clicking on search button
+17:57:24.136 [main] INFO  testCase.TC_004_SearchProduct - checking if searched product exists
+17:57:24.190 [main] INFO  testCase.TC_004_SearchProduct - clicking on searched product
+17:57:24.214 [main] INFO  testCase.TC_004_SearchProduct - enetring quantity
+18:01:17.616 [main] INFO  testCase.TC_004_SearchProduct - *********starting TC_004_Search****************
+18:01:17.627 [main] INFO  testCase.TC_004_SearchProduct - entering product name to search
+18:01:17.703 [main] INFO  testCase.TC_004_SearchProduct - clicking on search button
+18:01:18.109 [main] INFO  testCase.TC_004_SearchProduct - checking if searched product exists
+18:01:18.156 [main] INFO  testCase.TC_004_SearchProduct - clicking on searched product
+18:01:18.180 [main] INFO  testCase.TC_004_SearchProduct - enetring quantity
+18:09:19.030 [main] INFO  testCase.TC_004_SearchProduct - *********starting TC_004_Search****************
+18:09:19.066 [main] INFO  testCase.TC_004_SearchProduct - entering product name to search
+18:09:19.205 [main] INFO  testCase.TC_004_SearchProduct - clicking on search button
+18:09:19.650 [main] INFO  testCase.TC_004_SearchProduct - checking if searched product exists
+18:09:19.688 [main] INFO  testCase.TC_004_SearchProduct - clicking on searched product
+18:09:19.712 [main] INFO  testCase.TC_004_SearchProduct - enetring quantity
+18:13:52.562 [main] INFO  testCase.TC_004_SearchProduct - *********starting TC_004_Search****************
+18:13:52.584 [main] INFO  testCase.TC_004_SearchProduct - entering product name to search
+18:13:52.696 [main] INFO  testCase.TC_004_SearchProduct - clicking on search button
+18:13:53.123 [main] INFO  testCase.TC_004_SearchProduct - checking if searched product exists
+18:13:53.160 [main] INFO  testCase.TC_004_SearchProduct - clicking on searched product
+18:13:53.185 [main] INFO  testCase.TC_004_SearchProduct - entering quantity
+18:14:02.470 [main] INFO  testCase.TC_004_SearchProduct - clicking on add to cart button
+18:14:02.529 [main] INFO  testCase.TC_004_SearchProduct - checking add to cart successful message
+18:14:02.662 [main] INFO  testCase.TC_004_SearchProduct - *********Ending TC_004_Search****************
+18:16:47.414 [main] INFO  testCase.TC_004_SearchProduct - *********starting TC_004_Search****************
+18:16:47.434 [main] INFO  testCase.TC_004_SearchProduct - entering product name to search
+18:16:47.532 [main] INFO  testCase.TC_004_SearchProduct - clicking on search button
+18:16:48.020 [main] INFO  testCase.TC_004_SearchProduct - checking if searched product exists
+18:16:48.060 [main] INFO  testCase.TC_004_SearchProduct - clicking on searched product
+18:16:48.084 [main] INFO  testCase.TC_004_SearchProduct - entering quantity
+18:19:42.142 [main] INFO  testCase.TC_004_SearchProduct - *********starting TC_004_Search****************
+18:19:42.161 [main] INFO  testCase.TC_004_SearchProduct - entering product name to search
+18:19:42.306 [main] INFO  testCase.TC_004_SearchProduct - clicking on search button
+18:19:42.694 [main] INFO  testCase.TC_004_SearchProduct - checking if searched product exists
+18:19:42.734 [main] INFO  testCase.TC_004_SearchProduct - clicking on searched product
+18:19:42.755 [main] INFO  testCase.TC_004_SearchProduct - entering quantity
+18:19:51.106 [main] INFO  testCase.TC_004_SearchProduct - clicking on add to cart button
+18:19:51.162 [main] INFO  testCase.TC_004_SearchProduct - checking add to cart successful message
+18:19:51.297 [main] INFO  testCase.TC_004_SearchProduct - *********Ending TC_004_Search****************
+18:24:35.088 [main] INFO  testCase.TC_004_SearchProduct - *********starting TC_004_Search****************
+18:24:35.107 [main] INFO  testCase.TC_004_SearchProduct - entering product name to search
+18:24:35.244 [main] INFO  testCase.TC_004_SearchProduct - clicking on search button
+18:24:35.786 [main] INFO  testCase.TC_004_SearchProduct - checking if searched product exists
+18:24:35.870 [main] INFO  testCase.TC_004_SearchProduct - clicking on searched product
+18:24:35.907 [main] INFO  testCase.TC_004_SearchProduct - entering quantity
+18:45:01.453 [main] INFO  testCase.TC_004_SearchProduct - *********starting TC_004_Search****************
+18:45:01.472 [main] INFO  testCase.TC_004_SearchProduct - entering product name to search
+18:45:01.585 [main] INFO  testCase.TC_004_SearchProduct - clicking on search button
+18:45:01.982 [main] INFO  testCase.TC_004_SearchProduct - checking if searched product exists
+18:45:02.074 [main] INFO  testCase.TC_004_SearchProduct - *********Ending TC_004_Search****************
+20:50:35.112 [main] INFO  testCase.TC_005_AddToCartTest - ***************starting TC_005_AddToCartTest**********
+20:50:35.127 [main] INFO  testCase.TC_005_AddToCartTest - entering product name to search
+20:50:35.233 [main] INFO  testCase.TC_005_AddToCartTest - clicking on search button
+20:50:35.724 [main] INFO  testCase.TC_005_AddToCartTest - clicking on the searched product
+20:53:54.157 [main] INFO  testCase.TC_004_SearchProduct - *********starting TC_004_Search****************
+20:53:54.180 [main] INFO  testCase.TC_004_SearchProduct - entering product name to search
+20:53:54.313 [main] INFO  testCase.TC_004_SearchProduct - clicking on search button
+20:53:54.763 [main] INFO  testCase.TC_004_SearchProduct - checking if searched product exists
+20:53:54.837 [main] INFO  testCase.TC_004_SearchProduct - *********Ending TC_004_Search****************
+20:53:56.792 [main] INFO  testCase.TC_005_AddToCartTest - ***************starting TC_005_AddToCartTest**********
+20:53:56.793 [main] INFO  testCase.TC_005_AddToCartTest - entering product name to search
+20:53:56.901 [main] INFO  testCase.TC_005_AddToCartTest - clicking on search button
+20:53:57.302 [main] INFO  testCase.TC_005_AddToCartTest - clicking on the searched product
+21:00:54.146 [main] INFO  testCase.TC_004_SearchProduct - *********starting TC_004_SearchProduct****************
+21:00:54.162 [main] INFO  testCase.TC_004_SearchProduct - entering product name to search
+21:00:54.280 [main] INFO  testCase.TC_004_SearchProduct - clicking on search button
+21:00:54.710 [main] INFO  testCase.TC_004_SearchProduct - checking if searched product exists
+21:00:54.812 [main] INFO  testCase.TC_004_SearchProduct - *********Ending TC_004_SearchProduct****************
+21:00:56.766 [main] INFO  testCase.TC_005_AddToCartTest - ***************starting TC_005_AddToCartTest**********
+21:00:56.767 [main] INFO  testCase.TC_005_AddToCartTest - entering product name to search
+21:00:56.849 [main] INFO  testCase.TC_005_AddToCartTest - clicking on search button
+21:01:34.830 [main] INFO  testCase.TC_004_SearchProduct - *********starting TC_004_SearchProduct****************
+21:01:34.849 [main] INFO  testCase.TC_004_SearchProduct - entering product name to search
+21:01:34.955 [main] INFO  testCase.TC_004_SearchProduct - clicking on search button
+21:01:35.374 [main] INFO  testCase.TC_004_SearchProduct - checking if searched product exists
+21:01:35.454 [main] INFO  testCase.TC_004_SearchProduct - *********Ending TC_004_SearchProduct****************
+21:01:37.396 [main] INFO  testCase.TC_005_AddToCartTest - ***************starting TC_005_AddToCartTest**********
+21:01:37.397 [main] INFO  testCase.TC_005_AddToCartTest - entering product name to search
+21:01:37.484 [main] INFO  testCase.TC_005_AddToCartTest - clicking on search button
+21:01:49.662 [main] INFO  testCase.TC_005_AddToCartTest - ***************ending TC_005_AddToCartTest**********
+21:02:42.804 [main] INFO  testCase.TC_004_SearchProduct - *********starting TC_004_SearchProduct****************
+21:02:42.818 [main] INFO  testCase.TC_004_SearchProduct - entering product name to search
+21:02:42.917 [main] INFO  testCase.TC_004_SearchProduct - clicking on search button
+21:02:43.300 [main] INFO  testCase.TC_004_SearchProduct - checking if searched product exists
+21:02:43.381 [main] INFO  testCase.TC_004_SearchProduct - *********Ending TC_004_SearchProduct****************
+21:02:44.741 [main] INFO  testCase.TC_005_AddToCartTest - ***************starting TC_005_AddToCartTest**********
+21:02:44.741 [main] INFO  testCase.TC_005_AddToCartTest - entering product name to search
+21:02:44.824 [main] INFO  testCase.TC_005_AddToCartTest - clicking on search button
+21:03:36.899 [main] INFO  testCase.TC_005_AddToCartTest - ***************starting TC_005_AddToCartTest**********
+21:03:36.918 [main] INFO  testCase.TC_005_AddToCartTest - entering product name to search
+21:03:37.036 [main] INFO  testCase.TC_005_AddToCartTest - clicking on search button
+21:04:02.659 [main] INFO  testCase.TC_005_AddToCartTest - ***************starting TC_005_AddToCartTest**********
+21:04:02.676 [main] INFO  testCase.TC_005_AddToCartTest - entering product name to search
+21:04:02.827 [main] INFO  testCase.TC_005_AddToCartTest - clicking on search button
+21:04:13.530 [main] INFO  testCase.TC_005_AddToCartTest - ***************ending TC_005_AddToCartTest**********
+21:09:24.701 [main] INFO  testCase.TC_005_AddToCartTest - ***************starting TC_005_AddToCartTest**********
+21:09:24.717 [main] INFO  testCase.TC_005_AddToCartTest - entering product name to search
+21:09:24.868 [main] INFO  testCase.TC_005_AddToCartTest - clicking on search button
+06:50:38.725 [main] INFO  testCase.TC_005_AddToCartTest - ***************starting TC_005_AddToCartTest**********
+06:50:38.743 [main] INFO  testCase.TC_005_AddToCartTest - entering product name to search
+06:50:38.882 [main] INFO  testCase.TC_005_AddToCartTest - clicking on search button
+06:53:33.889 [main] INFO  testCase.TC_005_AddToCartTest - ***************starting TC_005_AddToCartTest**********
+06:53:33.926 [main] INFO  testCase.TC_005_AddToCartTest - entering product name to search
+06:53:34.113 [main] INFO  testCase.TC_005_AddToCartTest - clicking on search button
+06:53:34.987 [main] INFO  testCase.TC_005_AddToCartTest - clicking on the searched product
+06:53:36.208 [main] INFO  testCase.TC_005_AddToCartTest - entering quantity
+06:53:36.462 [main] INFO  testCase.TC_005_AddToCartTest - clicking on add to cart button
+06:53:36.963 [main] INFO  testCase.TC_005_AddToCartTest - ***************ending TC_005_AddToCartTest**********
