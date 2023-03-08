@@ -30,7 +30,7 @@ public class TC_002_LoginTest extends BaseClass{
 		//loginpage.setEmail(p.getProperty("email"));		
 		loginpage.setEmail(rb.getString("email"));
 		
-		logger.info("enetring password");
+		logger.info("entering password");
 		loginpage.setPassword(rb.getString("password"));
 		//loginpage.setPassword(rb.getString("xyz"));	//for testing failed test cases. purposefully failed
 		//loginpage.setPassword(p.getProperty("password"));

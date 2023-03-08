@@ -28,10 +28,13 @@ public class TC_005_AddToCartTest extends BaseClass{
 		SearchPage searchpage=new SearchPage(driver);
 	
 		if(searchpage.isProductExists("iPhone"))
+		//	if(searchpage.isProductExists("macbook"))
 		{
 			
 		logger.info("clicking on the searched product");
+		
 		searchpage.clickProduct("iPhone");
+		//searchpage.clickProduct("macbook");
 		
 		logger.info("entering quantity");
 		searchpage.enterQuantity("2");

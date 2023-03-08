@@ -20,6 +20,7 @@ public class DataProviders {
 		String logindata[][]=new String [total_rows][total_cols];
 		
 		//read data from excel storing into two dimensional array
+		
 		for(int i=1;i<=total_rows;i++)
 		{
 			for(int j=0;j<total_cols;j++)

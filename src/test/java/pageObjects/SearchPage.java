@@ -15,7 +15,9 @@ public class SearchPage extends BasePage{
 		
 	}
 
-	@FindBy(xpath="//*[@id='content']/div[3]//img")
+	@FindBy(xpath="//*[@id='content']/div[3]//img")	
+	//above xpath and this one is same div[@id='content']/div[3]//img
+	//* is a wild card. denotes "any"(node with unrestricted name) 
 	List<WebElement> searchedProducts;
 			
 	//@FindBy(name="quantity")
@@ -35,7 +37,7 @@ public class SearchPage extends BasePage{
 		boolean flag=false;
 		for(WebElement product:searchedProducts)
 		{
-			if(product.getAttribute("title").equals(productName))
+			if(product.getAttribute("title").equalsIgnoreCase(productName))
 			{
 				flag=true;
 				break;
@@ -50,7 +52,7 @@ public class SearchPage extends BasePage{
 	{
 		for(WebElement product:searchedProducts)
 		{				
-			if(product.getAttribute("title").equals(productName))
+			if(product.getAttribute("title").equalsIgnoreCase(productName))
 			{
 				product.click();
 			}

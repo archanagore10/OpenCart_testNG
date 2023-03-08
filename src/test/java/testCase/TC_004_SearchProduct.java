@@ -27,6 +27,7 @@ public class TC_004_SearchProduct extends BaseClass{
 		
 		logger.info("checking if searched product exists");
 		//searchpage.isProductExists("iphone");
+		
 		searchpage.isProductExists("macbook");
 		Assert.assertEquals(searchpage.isProductExists("MacBook"),true);
 		}
