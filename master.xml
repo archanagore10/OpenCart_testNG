@@ -8,13 +8,13 @@
 	
   <test thread-count="5" name="Test">
   	
-  	<parameter name="browser" value="chrome"/>
+  	<parameter name="browser" value="edge"/>
 
   	
     <classes>
     <!--  <class name="testCase.TC_001_AccountRegistrationForm"/> -->
- 	  <class name="testCase.TC_002_LoginTest"/> 
-	  <!-- <class name="testCase.TC_003_LoginDataDrivenTest"/>-->
+ 	 <!-- <class name="testCase.TC_002_LoginTest"/> -->
+	   <class name="testCase.TC_003_LoginDataDrivenTest"/>
 	<!--<class name="testCase.TC_004_SearchProduct"/>-->
 	  <!--	<class name="testCase.TC_005_AddToCartTest"/>-->
  	  

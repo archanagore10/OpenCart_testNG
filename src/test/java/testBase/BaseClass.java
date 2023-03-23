@@ -23,6 +23,8 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.*;
 
+import pageObjects.HomePage;
+
 public class BaseClass {
 	
 	public static WebDriver driver;
@@ -106,6 +108,7 @@ public class BaseClass {
 
 		try {
 			FileUtils.copyFile(source, new File(destination));
+			
 		} catch (Exception e) {
 			e.getMessage();
 		}

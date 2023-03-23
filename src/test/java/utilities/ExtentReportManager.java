@@ -77,28 +77,7 @@ public class ExtentReportManager implements ITestListener
 			extent.flush();
 
 			
-			//should not use it now. for later use
 			
-			/*
-			 * try { URL url = new
-			 * URL("file:///"+System.getProperty("user.dir")+"\\reports\\"+repName);
-			 * 
-			 * // Create the email message 
-			 * ImageHtmlEmail email = new ImageHtmlEmail();
-			 * email.setDataSourceResolver(new DataSourceUrlResolver(url));
-			 * email.setHostName("smtp.googlemail.com");  //get from office
-			 * email.setSmtpPort(465);	//get from office
-			 * email.setAuthenticator(new DefaultAuthenticator("archana.gore10@gmail.com","password")); 
-			 * email.setSSLOnConnect(true);
-			 * email.setFrom("archana.gore10@gmail.com"); //Sender
-			 * email.setSubject("Test Results");		//email subject
-			 * email.setMsg("Please find Attached Report....");		//email body
-			 * email.addTo("----------@gmail.com"); //Receiver's email
-			 * email.attach(url, "extent report", "please check report..."); 	//actual report
-			 * email.send(); // send the email 
-			 * }
-			 * catch(Exception e) { e.printStackTrace(); }
-			 */
 		}
 
 	}
